@@ -1,4 +1,4 @@
-Title: Joshua R. Bailey
+Title: About Josh
 
 DevOps Engineer. Linux and Open Source Enthusiast. Tinkerer.
 
