@@ -26,8 +26,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL=(('LinkedIn', 'https://www.linkedin.com/in/joshuarobertbailey'),
+('Github', 'https://github.com/binkocd'),
+('Bitbucket', 'https://bitbucket.org/binkocd'),
+('Gitlab', 'https://gitlab.com/binkocd'))
 
 DEFAULT_PAGINATION = 10
 
