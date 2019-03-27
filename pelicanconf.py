@@ -34,7 +34,7 @@ SOCIAL= (('LinkedIn', 'https://www.linkedin.com/in/joshuarobertbailey'),
 
 DEFAULT_PAGINATION = 10
 THEME = 'Flex'
-#SITELOGO = SITEURL + '/images/profile.png'
+SITELOGO = 'http://jrbit.me/images/profile.jpg'
 MAIN_MENU = True
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
